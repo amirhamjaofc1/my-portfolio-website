@@ -154,7 +154,6 @@ button {
   background-color: #fff8f3;
   text-align: center;
   padding: 130px 150px;
-
 }
 .about-container {
   margin: 130px 0 130px 0;
@@ -186,4 +185,51 @@ button {
   font-size: 21px;
   color: #474747;
   font-weight: 700;
+}
+
+.what-do {
+  margin: 130px 0;
+  width: 70%;
+  margin: 0 auto;
+  margin-bottom: 130px;
+}
+.what-do-text {
+  text-align: center;
+}
+.what-do-text h2 {
+  font-size: 35px;
+  font-weight: bold;
+  color: #181818;
+  margin-bottom: 30px;
+}
+.what-do-text p {
+  font-size: 18px;
+  color: #757575;
+  margin-bottom: 50px;
+}
+.what-do-content{
+  display: flex;
+  align-items: center;
+}
+.card-cont{
+  margin-bottom: 130px ;
+}
+.what-card{
+  padding: 60px 25px;
+  box-shadow: 1px 1px 10px 2px rgba(115, 115, 115, 0.3);
+  margin-right: 25px;
+}
+.what-card img{
+  margin-bottom: 30px;
+}
+.what-card h2{
+  font-size: 20px;
+  font-weight: bold;
+  color: #181818;
+  margin-bottom: 20px;
+}
+.what-card p{
+  font-size: 16px;
+  color: #757575;
+  margin-bottom: 30px;
 }
